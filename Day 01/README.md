@@ -1,1 +1,34 @@
+Python Learning Journey – Chapter 1
+Overview
 
+This repository contains my notes and practice exercises from Chapter 1 of Python programming. The chapter introduces the fundamental concepts required to begin programming in Python.
+
+Topics Covered
+Modules
+
+Learned about Python modules, which allow programmers to organize and reuse code. Explored the difference between built-in modules and external modules.
+
+PIP
+
+Studied Python's package manager, PIP, and learned how it is used to install external libraries and packages.
+
+Types of Modules
+Built-in Modules (pre-installed with Python)
+External Modules (installed using PIP)
+Python as a Calculator
+
+Learned how Python can be used interactively to perform mathematical calculations through the Python interpreter.
+
+Comments
+
+Studied the importance of comments in programming for improving code readability and documentation.
+
+Types of comments:
+
+Single-line comments
+Multi-line comments
+Practice Exercises Completed
+Printed the "Twinkle Twinkle Little Star" poem.
+Installed and used an external Python module.
+Explored the use of the OS module.
+Printed the contents of a directory using Python.
