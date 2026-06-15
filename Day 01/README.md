@@ -15,12 +15,13 @@ Studied Python's package manager, PIP, and learned how it is used to install ext
 
 Types of Modules
 Built-in Modules (pre-installed with Python)<br>
-External Modules (installed using PIP))<br>
-Python as a Calculator)<br>
+External Modules (installed using PIP)<br>
+
+Python as a Calculator<br>
 
 Learned how Python can be used interactively to perform mathematical calculations through the Python interpreter.
 
-Comments)<br>
+Comments<br>
 
 Studied the importance of comments in programming for improving code readability and documentation.
 
