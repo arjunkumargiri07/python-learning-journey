@@ -4,6 +4,7 @@ Overview
 This repository contains my notes and practice exercises from Chapter 1 of Python programming. The chapter introduces the fundamental concepts required to begin programming in Python.
 
 Topics Covered
+
 Modules
 
 Learned about Python modules, which allow programmers to organize and reuse code. Explored the difference between built-in modules and external modules.
