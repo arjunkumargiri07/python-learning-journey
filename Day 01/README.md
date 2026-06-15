@@ -13,7 +13,7 @@ PIP
 
 Studied Python's package manager, PIP, and learned how it is used to install external libraries and packages.
 <br>
-Types of Modules
+Types of Modules)<br>
 Built-in Modules (pre-installed with Python)<br>
 External Modules (installed using PIP)<br>
 
