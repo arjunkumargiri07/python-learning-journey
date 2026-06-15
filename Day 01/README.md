@@ -13,13 +13,13 @@ PIP
 Studied Python's package manager, PIP, and learned how it is used to install external libraries and packages.
 
 Types of Modules
-Built-in Modules (pre-installed with Python)
-External Modules (installed using PIP)
-Python as a Calculator
+Built-in Modules (pre-installed with Python)<br>
+External Modules (installed using PIP))<br>
+Python as a Calculator)<br>
 
 Learned how Python can be used interactively to perform mathematical calculations through the Python interpreter.
 
-Comments
+Comments)<br>
 
 Studied the importance of comments in programming for improving code readability and documentation.
 
