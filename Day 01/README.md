@@ -32,3 +32,11 @@ Printed the "Twinkle Twinkle Little Star" poem.
 Installed and used an external Python module.
 Explored the use of the OS module.
 Printed the contents of a directory using Python.
+
+Author
+
+Arjun Kumar Giri
+
+Computer Engineering Student | Embedded Systems & IoT Enthusiast
+
+GitHub: https://github.com/arjunkumargiri07
