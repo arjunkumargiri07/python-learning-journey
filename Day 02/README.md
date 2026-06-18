@@ -1,22 +1,23 @@
-Chapter 02 – Variables and Data Types
+Chapter 02 – Variables and Data Types<br>
 Overview
 
 This chapter introduces the fundamentals of variables, data types, operators, type conversion, and user input in Python. These concepts form the foundation of Python programming and are essential for writing interactive and efficient programs.
 
 Topics Covered
 1. Variables
-Understanding variables and their purpose.
-Storing and managing data in memory.
-Variable naming conventions and best practices.
+-Understanding variables and their purpose.<br>
+-Storing and managing data in memory.<br>
+-Variable naming conventions and best practices.<br>
 2. Data Types
 
 Python automatically determines the type of data stored in a variable. The primary data types covered are:
 
-Integer (int)
-Float (float)
-String (str)
-Boolean (bool)
-None (NoneType)
+-Integer (int)<br>
+-Float (float)<br>
+-String (str)<br>
+-Boolean (bool)<br>
+-None (NoneType)<br>
+
 3. Identifiers
 Rules for creating valid identifiers.
 Naming standards for variables, functions, and classes.
