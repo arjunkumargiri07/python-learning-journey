@@ -11,7 +11,7 @@ Learned about Python modules, which allow programmers to organize and reuse code
 2.PIP<br>
 Studied Python's package manager, PIP, and learned how it is used to install external libraries and packages.
 <br>
-Types of Modules)<br>
+ Types of Modules)<br>
 Built-in Modules (pre-installed with Python)<br>
 External Modules (installed using PIP)<br>
 
@@ -21,11 +21,11 @@ Learned how Python can be used interactively to perform mathematical calculation
 4.Comments<br>
 Studied the importance of comments in programming for improving code readability and documentation.
 
-Types of comments:<br>
+ Types of comments:<br>
 -Single-line comments<br>
 -Multi-line comments<br>
 <br>
-Practice Exercises Completed<br>
+5.Practice Exercises Completed<br>
 Printed the "Twinkle Twinkle Little Star" poem.<br>
 Installed and used an external Python module.<br>
 Explored the use of the OS module.<br>
