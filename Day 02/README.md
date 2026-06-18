@@ -38,3 +38,11 @@ This chapter covers:
 -Taking input from the user.<br>
 -Understanding how Python handles input.<br>
 -Converting input data into appropriate types when required.<br>
+
+Author
+
+Arjun Kumar Giri
+
+Computer Engineering Student | Embedded Systems & IoT Enthusiast
+
+GitHub: https://github.com/arjunkumargiri07
