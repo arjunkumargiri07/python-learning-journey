@@ -10,9 +10,7 @@ Topics Covered
 -Variable naming conventions and best practices.<br>
 
 2. Data Types
-
 Python automatically determines the type of data stored in a variable. The primary data types covered are:
-
 -Integer (int)<br>
 -Float (float)<br>
 -String (str)<br>
@@ -25,16 +23,13 @@ Python automatically determines the type of data stored in a variable. The prima
 -Common mistakes to avoid.<br>
 
 4. Operators<br>
-
 This chapter covers:
-
 -Arithmetic Operators<br>
 -Assignment Operators<br>
 -Comparison Operators<br>
 -Logical Operators<br>
 
 5. Type Checking and Type Casting<br>
-
 -Using the type() function to identify data types.<br>
 -Converting data between different types.<br>
 -Understanding literals and their significance.<br>
