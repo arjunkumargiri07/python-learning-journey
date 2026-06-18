@@ -5,10 +5,10 @@ This repository contains my notes and practice exercises from Chapter 1 of Pytho
 
 Topics Covered
 
-1.Modules
+1.Modules<br>
 Learned about Python modules, which allow programmers to organize and reuse code. Explored the difference between built-in modules and external modules.
 
-2.PIP
+2.PIP<br>
 Studied Python's package manager, PIP, and learned how it is used to install external libraries and packages.
 <br>
 Types of Modules)<br>
@@ -21,15 +21,15 @@ Learned how Python can be used interactively to perform mathematical calculation
 4.Comments<br>
 Studied the importance of comments in programming for improving code readability and documentation.
 
-Types of comments:
--Single-line comments
--Multi-line comments
+Types of comments:<br>
+-Single-line comments<br>
+-Multi-line comments<br>
 <br>
-Practice Exercises Completed
-Printed the "Twinkle Twinkle Little Star" poem.
-Installed and used an external Python module.
-Explored the use of the OS module.
-Printed the contents of a directory using Python.
+Practice Exercises Completed<br>
+Printed the "Twinkle Twinkle Little Star" poem.<br>
+Installed and used an external Python module.<br>
+Explored the use of the OS module.<br>
+Printed the contents of a directory using Python.<br>
 
 Author
 
