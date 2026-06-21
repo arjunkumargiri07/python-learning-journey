@@ -230,4 +230,11 @@ World
 
 This README is part of the **Python Programming Handbook – Beginner Friendly Learning Guide**.
 
+Author
+
+Arjun Kumar Giri
+
+Computer Engineering Student | Embedded Systems & IoT Enthusiast
+
+GitHub: https://github.com/arjunkumargiri07
 
