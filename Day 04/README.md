@@ -214,6 +214,13 @@ print(a.index(1))
 | Performance | Slightly Slower | Faster |
 
 ---
+🎯 Key Takeaways
+Lists are mutable collections used to store multiple values.
+List elements can be accessed using indexing and slicing.
+Python provides several built-in methods for list manipulation.
+Tuples are immutable collections.
+Tuples support methods like count() and index().
+Use lists when data needs modification and tuples when data should remain constant.
 
 
 
