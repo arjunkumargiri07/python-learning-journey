@@ -222,6 +222,14 @@ Tuples are immutable collections.
 Tuples support methods like count() and index().
 Use lists when data needs modification and tuples when data should remain constant.
 
+Author
+
+Arjun Kumar Giri
+
+Computer Engineering Student | Embedded Systems & IoT Enthusiast
+
+GitHub: https://github.com/arjunkumargiri07
+
 
 
 
