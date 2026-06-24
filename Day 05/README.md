@@ -157,23 +157,5 @@ After completing this chapter, you will be able to:
 * Perform common set operations such as union and intersection.
 * Understand the differences between dictionaries and sets.
 
----
 
-## 📚 Prerequisites
-
-* Basic Python syntax
-* Variables and data types
-* Lists and tuples
-
----
-
-## 🤝 Contributing
-
-Feel free to fork this repository, improve the examples, and submit pull requests.
-
----
-
-## 📄 License
-
-This project is intended for educational purposes and can be freely used for learning Python programming.
 
