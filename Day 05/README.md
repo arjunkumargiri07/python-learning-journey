@@ -157,5 +157,13 @@ After completing this chapter, you will be able to:
 * Perform common set operations such as union and intersection.
 * Understand the differences between dictionaries and sets.
 
+* Author
+
+Arjun Kumar Giri
+
+Computer Engineering Student | Embedded Systems & IoT Enthusiast
+
+GitHub: https://github.com/arjunkumargiri07
+
 
 
