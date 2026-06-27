@@ -251,7 +251,13 @@ After completing this chapter, you will be able to:
 - ✅ Build simple decision-making programs.
 
 ---
+Author
 
+Arjun Kumar Giri
+
+Computer Engineering Student | Embedded Systems & IoT Enthusiast
+
+GitHub: https://github.com/arjunkumargiri07
 
 
 ---
