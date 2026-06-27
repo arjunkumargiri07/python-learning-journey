@@ -355,7 +355,13 @@ After completing this chapter, you will be able to:
 7. Iterate through a string and print each character separately.
 
 ---
+Author
 
+Arjun Kumar Giri
+
+Computer Engineering Student | Embedded Systems & IoT Enthusiast
+
+GitHub: https://github.com/arjunkumargiri07
 
 
 ---
