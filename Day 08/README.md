@@ -304,20 +304,15 @@ After completing this chapter, you will be able to:
 * ✅ Use default parameter values.
 * ✅ Solve problems using recursion.
 
----
-
-# 🚀 Practice Exercises
-
-1. Write a function to print **"Good Morning"**.
-2. Create a function that adds two numbers and returns the result.
-3. Write a function to calculate the square of a number.
-4. Create a function that greets a user by name.
-5. Use a default parameter to greet "Guest" when no name is provided.
-6. Write a recursive function to calculate the factorial of a number.
-7. Write a recursive function to print the Fibonacci sequence.
 
 ---
+Author
 
+Arjun Kumar Giri
+
+Computer Engineering Student | Embedded Systems & IoT Enthusiast
+
+GitHub: https://github.com/arjunkumargiri07
 
 ---
 
