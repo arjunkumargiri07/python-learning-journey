@@ -342,17 +342,7 @@ After completing this chapter, you will be able to:
 - ✅ Use `pass` as a placeholder.
 - ✅ Write efficient programs with repetition.
 
----
 
-## 🚀 Practice Exercises
-
-1. Print numbers from **1 to 100** using a `while` loop.
-2. Print the multiplication table of any number using a `for` loop.
-3. Find the sum of numbers from **1 to 50**.
-4. Print only the even numbers between **1 and 100**.
-5. Use a `break` statement to stop a loop when a specific number is found.
-6. Use `continue` to skip all odd numbers.
-7. Iterate through a string and print each character separately.
 
 ---
 Author
