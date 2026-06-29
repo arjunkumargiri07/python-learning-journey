@@ -224,19 +224,7 @@ Grade A
 - Once a condition becomes **True**, the remaining conditions are skipped.
 - The **`else` block** executes only if all previous conditions are **False**.
 
----
 
-# 📂 Files Included
-
-```
-Chapter06/
-│── README.md
-│── if_else.py
-│── elif_example.py
-│── relational_operators.py
-│── logical_operators.py
-│── age_checker.py
-```
 
 ---
 
