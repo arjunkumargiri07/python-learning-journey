@@ -312,21 +312,7 @@ Loop completed.
 - **pass** is a placeholder that performs no operation.
 - An **else** block runs only if the loop finishes normally.
 
----
 
-# 📂 Files Included
-
-```
-Chapter07/
-│── README.md
-│── while_loop.py
-│── for_loop.py
-│── range_function.py
-│── for_else.py
-│── break_statement.py
-│── continue_statement.py
-│── pass_statement.py
-```
 
 ---
 
