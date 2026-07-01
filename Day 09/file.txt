@@ -1,0 +1,4 @@
+Python is one of the easiest and most beginner friendly programming languages. Its syntax feels close
+to simple English which makes it easy to read, write, and understand.
+Python is widely used in web development, automation, artificial intelligence, machine learning, data
+science, and software development.
